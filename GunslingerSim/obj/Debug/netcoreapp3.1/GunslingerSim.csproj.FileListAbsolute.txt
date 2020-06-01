@@ -1,0 +1,11 @@
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\bin\Debug\netcoreapp3.1\GunslingerSim.exe
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\bin\Debug\netcoreapp3.1\GunslingerSim.deps.json
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\bin\Debug\netcoreapp3.1\GunslingerSim.runtimeconfig.json
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\bin\Debug\netcoreapp3.1\GunslingerSim.runtimeconfig.dev.json
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\bin\Debug\netcoreapp3.1\GunslingerSim.dll
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\bin\Debug\netcoreapp3.1\GunslingerSim.pdb
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\obj\Debug\netcoreapp3.1\GunslingerSim.csprojAssemblyReference.cache
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\obj\Debug\netcoreapp3.1\GunslingerSim.AssemblyInfoInputs.cache
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\obj\Debug\netcoreapp3.1\GunslingerSim.AssemblyInfo.cs
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\obj\Debug\netcoreapp3.1\GunslingerSim.dll
+C:\Users\thepo\source\repos\GunslingerSim\GunslingerSim\obj\Debug\netcoreapp3.1\GunslingerSim.pdb
